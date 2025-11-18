@@ -1,0 +1,17 @@
+favicon.ico/
+img/
+# ====== macOS sistem dosyaları ======
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ====== Gizli sistem dosyaları ======
+Icon?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ====== Git / IDE / VSCode dosyaları ======
+.vscode/
+.idea/
+*.log
